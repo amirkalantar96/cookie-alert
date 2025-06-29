@@ -1,5 +1,5 @@
 # Cookie-Alert
-This is a simple project for beginners.
+**This is a simple project for beginners.**
 
 ## Description of the project
 - This code is very simple. It just checks whether cookies are enabled or disabled, and then shows a message (alert).
